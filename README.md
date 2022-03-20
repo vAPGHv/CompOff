@@ -1,2 +1,1 @@
-# CompOff
-🖥📴
+Turns off the computer
